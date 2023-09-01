@@ -22,6 +22,8 @@
 ## Medium
 
 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) `leetcode`
+- [Lowest Common Anscestor of Binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) `leetcode`
+- [Lowest Common Anscestor of Binary Search tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) `leetcode`
 - [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) `leetcode`
 - [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) `leetcode`
 - [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) `leetcode`
